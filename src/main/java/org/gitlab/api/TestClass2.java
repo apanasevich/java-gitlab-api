@@ -1,4 +1,4 @@
 package org.gitlab.api;
 
-public class TestClass {
+public class TestClass2 {
 }
